@@ -9,3 +9,9 @@ sudo apt install apache2
 sudo ufw app list
 
 ![UFW apps](ufw-apps.png)
+
+sudo ufw allow in "Apache"
+
+sudo ufw status
+
+![UFW Status](ufw-status.png)
