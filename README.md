@@ -15,3 +15,7 @@ sudo ufw allow in "Apache"
 sudo ufw status
 
 ![UFW Status](ufw-status.png)
+
+http://localhost/
+
+![localhost](default-page.png)
