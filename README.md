@@ -29,3 +29,9 @@ sudo mysql_secure_installation
 sudo mysql
 
 ![mysql](mysql.png)
+
+# PHP
+
+sudo apt install php libapache2-mod-php php-mysql
+
+![PHP](php.png)
