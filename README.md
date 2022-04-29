@@ -16,6 +16,16 @@ sudo ufw status
 
 ![UFW Status](ufw-status.png)
 
-http://localhost/
+# http://localhost/
 
 ![localhost](default-page.png)
+
+# MySQL
+
+sudo apt install mysql-server
+
+sudo mysql_secure_installation
+
+sudo mysql
+
+![mysql](mysql.png)
